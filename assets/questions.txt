@@ -1,0 +1,130 @@
+What color is the sky on a clear day?|Blue|Red|Green|Yellow|A|1|01
+How many legs does a spider have?|6|8|4|10|B|1|01
+How many days are there in a week?|5|6|7|8|C|2|01
+What is the boiling point of water at sea level?|50°C|90°C|100°C|150°C|C|2|01
+Which planet is closest to the sun?|Earth|Venus|Mercury|Mars|C|3|01
+What is the capital of Italy?|Rome|Milan|Naples|Florence|A|3|01
+Who invented the telephone?|Einstein|Edison|Bell|Newton|C|4|01
+What is the largest ocean on Earth?|Atlantic|Indian|Pacific|Arctic|C|4|01
+How many elements are there in the periodic table?|108|112|118|125|C|5|01
+Which year did the Berlin Wall fall?|1985|1987|1989|1991|C|5|01
+Which alphabet is used in English?|Cyrillic|Arabic|Latin|Greek|C|1|02
+What do we call a word that means the opposite of another?|Synonym|Antonym|Homonym|Metaphor|B|1|02
+Who wrote “Romeo and Juliet”?|Hemingway|Shakespeare|Austen|Orwell|B|2|02
+Which language has the most native speakers?|English|Mandarin|Spanish|Hindi|B|2|02
+What is the term for a word that sounds like its meaning?|Simile|Onomatopoeia|Idiom|Irony|B|3|02
+What does the prefix “bio-” mean?|Life|Water|Air|Earth|A|3|02
+Which novel begins with “Call me Ishmael”?|Moby-Dick|The Odyssey|Dracula|1984|A|4|02
+Who wrote “Pride and Prejudice”?|Brontë|Austen|Dickens|Shelley|B|4|02
+What is the study of word origins called?|Linguistics|Grammar|Etymology|Semantics|C|5|02
+Which language family does Finnish belong to?|Romance|Germanic|Slavic|Uralic|D|5|02
+Who was the first President of the United States?|Lincoln|Adams|Jefferson|Washington|D|1|03
+In which month is Independence Day celebrated in the U.S.?|May|June|July|August|C|1|03
+Which ancient civilization built the pyramids?|Romans|Greeks|Egyptians|Babylonians|C|2|03
+What wall fell in 1989, symbolizing the end of the Cold War?|China Wall|Berlin Wall|Iron Curtain|Peace Wall|B|2|03
+Who was the first man to step on the Moon?|Yuri Gagarin|Neil Armstrong|Buzz Aldrin|Michael Collins|B|3|03
+Which war was fought between the North and South of the U.S.?|WWI|Civil War|Revolutionary War|Cold War|B|3|03
+Which empire was ruled by Julius Caesar?|Greek|Persian|Roman|Mongol|C|4|03
+What was the name of the ship on which the Pilgrims traveled to America in 1620?|Santa Maria|Mayflower|Titanic|Victoria|B|4|03
+In which year did the French Revolution begin?|1776|1789|1804|1812|B|5|03
+Who was the longest-reigning British monarch before Queen Elizabeth II?|George III|Victoria|Henry VIII|Edward VII|B|5|03
+Which continent is Egypt in?|Asia|Africa|Europe|South America|B|1|04
+What is the capital of Japan?|Seoul|Beijing|Tokyo|Bangkok|C|1|04
+Which country has the largest population in the world?|India|USA|China|Russia|C|2|04
+Which country is famous for the Eiffel Tower?|Spain|Italy|France|Germany|C|2|04
+What is the longest river in the world?|Nile|Amazon|Yangtze|Mississippi|A|3|04
+Which ocean is on the west coast of the United States?|Atlantic|Arctic|Pacific|Indian|C|3|04
+Which two countries share the longest international border?|USA & Canada|Russia & China|Brazil & Argentina|India & Nepal|A|4|04
+What is the capital city of Australia?|Sydney|Melbourne|Canberra|Brisbane|C|4|04
+Mount Kilimanjaro is located in which country?|Kenya|Tanzania|Uganda|South Africa|B|5|04
+Which country has the most time zones?|USA|Russia|France|China|C|5|04
+What is H2O commonly known as?|Salt|Hydrogen|Water|Oxygen|C|1|05  
+How many planets are in the Solar System?|7|8|9|10|B|1|05  
+What gas do plants absorb from the atmosphere?|Oxygen|Nitrogen|Carbon Dioxide|Helium|C|2|05  
+What part of the cell contains genetic material?|Nucleus|Cytoplasm|Membrane|Mitochondria|A|2|05  
+Who developed the theory of relativity?|Newton|Edison|Einstein|Bohr|C|3|05  
+What does “CPU” stand for in computing?|Central Performance Unit|Computer Processing Unit|Central Processing Unit|Core Power Unit|C|3|05  
+What is the hardest natural substance on Earth?|Iron|Diamond|Quartz|Steel|B|4|05  
+What type of energy is produced by the sun?|Nuclear|Thermal|Kinetic|Magnetic|A|4|05  
+What is the name of the first artificial Earth satellite?|Apollo|Hubble|Sputnik|Voyager|C|5|05  
+What does DNA stand for?|Digital Network Access|Deoxyribonucleic Acid|Dynamic Neural Algorithm|Data Numeric Array|B|5|05
+Who painted the Mona Lisa?|Van Gogh|Picasso|Da Vinci|Rembrandt|C|1|06  
+Which company created Mickey Mouse?|DreamWorks|Pixar|Disney|Universal|C|1|06  
+What color is used to symbolize peace in art?|Red|Blue|White|Black|C|2|06  
+Who directed the movie "Titanic"?|Spielberg|Nolan|Cameron|Scorsese|C|2|06  
+Which artist is known for "The Starry Night"?|Monet|Van Gogh|Dali|Kahlo|B|3|06  
+Which film won Best Picture at the 2020 Oscars?|1917|Joker|Parasite|Ford v Ferrari|C|3|06  
+What is the main art movement of Pablo Picasso?|Cubism|Impressionism|Realism|Expressionism|A|4|06  
+Which famous sculpture is missing its arms?|Venus de Milo|David|The Thinker|Moai|A|4|06  
+Who composed the Four Seasons?|Mozart|Beethoven|Vivaldi|Bach|C|5|06  
+Which language is most operas traditionally performed in?|German|Italian|Russian|French|B|5|06
+How many players are there in a soccer team on the field?|9|10|11|12|C|1|07  
+Which sport uses a racket and a shuttlecock?|Tennis|Squash|Badminton|Cricket|C|1|07  
+What sport is known as “the king of sports”?|Basketball|Football (Soccer)|Baseball|Tennis|B|2|07  
+In which country were the first Olympic Games held?|Italy|Greece|France|Germany|B|2|07  
+How many rings are on the Olympic flag?|4|5|6|7|B|3|07  
+What is the maximum break in snooker?|147|155|120|200|A|3|07  
+What is the term for a score of zero in tennis?|Null|Zero|Love|Blank|C|4|07  
+Which Grand Slam tournament is played on grass courts?|US Open|French Open|Wimbledon|Australian Open|C|4|07  
+Who holds the record for most goals in World Cup history?|Pele|Messi|Miroslav Klose|Ronaldo|C|5|07  
+Which chess player was the youngest world champion ever?|Kasparov|Fischer|Carlsen|Anand|A|5|07
+Who sang the hit song “Shape of You”?|Drake|Justin Bieber|Ed Sheeran|Bruno Mars|C|1|08  
+What is the name of Harry Potter's pet owl?|Hedwig|Crookshanks|Scabbers|Fawkes|A|1|08  
+Which TV series features a character named Sheldon Cooper?|Friends|The Big Bang Theory|How I Met Your Mother|Brooklyn 99|B|2|08  
+Which pop star is known as the “Queen of Pop”?|Madonna|Beyoncé|Lady Gaga|Rihanna|A|2|08  
+Which video platform is owned by Google?|TikTok|Vimeo|YouTube|Twitch|C|3|08  
+Who hosted “The Tonight Show” after Jay Leno retired?|Jimmy Fallon|Jimmy Kimmel|Stephen Colbert|Conan O'Brien|A|3|08  
+What movie features the line “I am your father”?|Matrix|Star Wars|Avengers|Avatar|B|4|08  
+Which social media app uses a ghost as its logo?|Snapchat|Instagram|Reddit|Telegram|A|4|08  
+Who directed the movie “Inception”?|Tarantino|Scorsese|Nolan|Spielberg|C|5|08  
+Which Korean band is known for the song “Dynamite”?|EXO|BLACKPINK|BTS|TWICE|C|5|08
+Which religion follows the teachings of Jesus Christ?|Islam|Hinduism|Christianity|Judaism|C|1|09  
+What is the holy book of Islam?|Bible|Quran|Torah|Vedas|B|1|09  
+What is karma associated with?|Christianity|Hinduism|Islam|Judaism|B|2|09  
+Who is considered the founder of Buddhism?|Socrates|Laozi|Confucius|Siddhartha Gautama|D|2|09  
+What is the main god in ancient Greek mythology called?|Poseidon|Hades|Zeus|Apollo|C|3|09  
+In Christianity, who betrayed Jesus?|Peter|Paul|Judas|James|C|3|09  
+What is the philosophy that emphasizes “the greatest happiness for the greatest number”?|Stoicism|Utilitarianism|Existentialism|Nihilism|B|4|09  
+Which religion celebrates Diwali?|Islam|Christianity|Hinduism|Judaism|C|4|09  
+What is the central text of Judaism?|Bhagavad Gita|Quran|Torah|Tripitaka|C|5|09  
+Which philosopher wrote “The Republic”?|Plato|Aristotle|Descartes|Nietzsche|A|5|09
+What currency is used in the United States?|Euro|Dollar|Pound|Yen|B|1|10  
+What is the basic unit of money in Japan?|Yuan|Won|Ringgit|Yen|D|1|10  
+Which company is known for the iPhone?|Samsung|Google|Apple|Huawei|C|2|10  
+What does CEO stand for?|Central Executive Officer|Chief Economic Organizer|Chief Executive Officer|Corporate Enterprise Officer|C|2|10  
+What is the stock market abbreviation for Microsoft?|MFT|MSO|MSFT|MIC|C|3|10  
+Which company is known as the world's largest online retailer?|eBay|Amazon|Alibaba|Flipkart|B|3|10  
+What is the term for rising prices in an economy?|Deflation|Recession|Inflation|Depression|C|4|10  
+Which currency is used in most European Union countries?|Franc|Lira|Euro|Peso|C|4|10  
+Who wrote "The Wealth of Nations"?|Karl Marx|Adam Smith|Keynes|Milton Friedman|B|5|10  
+Which economic theory advocates minimal government interference?|Keynesian|Monetarism|Laissez-faire|Socialism|C|5|10
+What do people commonly eat for breakfast?|Pizza|Burger|Cereal|Steak|C|1|11  
+What do you use to brush your teeth?|Spoon|Comb|Toothbrush|Knife|C|1|11  
+Which household chore involves cleaning the floor with water?|Dusting|Vacuuming|Mopping|Washing|C|2|11  
+What is the average number of hours an adult should sleep?|4|6|8|10|C|2|11  
+What do you wear on your feet outdoors?|Gloves|Socks|Shoes|Hat|C|3|11  
+Which meal is typically eaten in the evening?|Breakfast|Brunch|Lunch|Dinner|D|3|11  
+What’s the most used appliance in a kitchen?|Fridge|TV|Lamp|Computer|A|4|11  
+What is the name of the machine used to clean clothes?|Dryer|Washer|Oven|Blender|B|4|11  
+What’s the average body temperature in Celsius?|35°C|36.5°C|37°C|38°C|C|5|11  
+Which vitamin do we get from sunlight?|Vitamin A|Vitamin B|Vitamin C|Vitamin D|D|5|11
+Who is the god of thunder in Norse mythology?|Odin|Loki|Thor|Baldur|C|1|12  
+What mythical creature breathes fire and flies?|Unicorn|Phoenix|Dragon|Sphinx|C|1|12  
+In Greek mythology, who is the king of the gods?|Apollo|Poseidon|Hades|Zeus|D|2|12  
+Which Greek hero fought in the Trojan War and was vulnerable only in his heel?|Hercules|Achilles|Odysseus|Theseus|B|2|12  
+Which creature is half man, half bull?|Centaur|Minotaur|Satyr|Chimera|B|3|12  
+What bird is reborn from its own ashes?|Dove|Phoenix|Eagle|Hawk|B|3|12  
+Which Norse god is associated with mischief and trickery?|Odin|Freya|Loki|Baldur|C|4|12  
+What is the name of the Greek underworld?|Elysium|Tartarus|Asgard|Hades|D|4|12  
+In Japanese folklore, what is a kitsune?|Demon|Fox spirit|Dragon|Ghost|B|5|12  
+Who is the Egyptian god of the afterlife?|Ra|Osiris|Anubis|Set|C|5|12
+What has hands but can’t clap?|Clock|Glove|Monkey|Human|A|1|13  
+What gets wetter the more it dries?|Towel|Sponge|Ice|Leaf|A|1|13  
+What goes up but never comes down?|Rain|Age|Smoke|Balloon|B|2|13  
+What has to be broken before you can use it?|Egg|Glass|Seal|Lock|A|2|13  
+I speak without a mouth and hear without ears. What am I?|Echo|Shadow|Ghost|Wind|A|3|13  
+The more you take, the more you leave behind. What are they?|Memories|Footsteps|Words|Coins|B|3|13  
+What has a neck but no head?|Shirt|Bottle|Snake|Lamp|B|4|13  
+I’m tall when I’m young and short when I’m old. What am I?|Tree|Human|Candle|Building|C|4|13  
+What comes once in a minute, twice in a moment, but never in a thousand years?|Time|M|Light|Dream|B|5|13  
+What disappears as soon as you say its name?|Secret|Whisper|Echo|Silence|D|5|13

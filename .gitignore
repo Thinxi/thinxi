@@ -1,0 +1,104 @@
+# =====================================
+# ✅ MISCELLANEOUS (همه سیستم‌ها)
+# =====================================
+*.class
+*.log
+*.pyc
+*.swp
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# =====================================
+# ✅ IDE & TOOL CONFIG FILES
+# =====================================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+.vscode/
+.atom/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# =====================================
+# ✅ FLUTTER / DART / PUB
+# =====================================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Doc & Symbolication
+**/doc/api/
+app.*.symbols
+app.*.map.json
+
+# =====================================
+# ✅ PLATFORM-SPECIFIC
+# =====================================
+
+# iOS/macOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+ios/DerivedData/
+
+# Android
+android/.gradle/
+android/captures/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Windows / Linux (در صورت وجود)
+windows/
+linux/
+
+# Web
+web/.dart_tool/
+
+# Build
+/build/
+
+# =====================================
+# ✅ FIREBASE / ENV FILES
+# =====================================
+.firebase/
+.firebaserc
+.env
+.env.*
+
+# =====================================
+# ✅ OUTPUT BINARIES
+# =====================================
+*.apk
+*.ipa
+*.aab
+
+# =====================================
+# ✅ TESTS / COVERAGE
+# =====================================
+coverage/
+test-results/
+
+# =====================================
+# ✅ NODE MODULES (در صورت استفاده از npm)
+node_modules/
+
+# =====================================
+# ✅ OPTIONAL - LARGE FILE TRACKING
+# (برای استفاده با Git LFS)
+# =====================================
+*.mp4
+*.zip
+*.json

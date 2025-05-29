@@ -1,0 +1,15 @@
+import 'package:flutter/material.dart';
+
+class LanguageManager with ChangeNotifier {
+  String _currentLanguage = 'en'; // پیش‌فرض انگلیسی
+
+  String get currentLanguage => _currentLanguage;
+
+  void setLanguage(String langCode) {
+    _currentLanguage = langCode;
+    notifyListeners();
+  }
+
+  bool isEnglish() => _currentLanguage == 'en';
+  bool isPersian() => _currentLanguage == 'fa';
+}

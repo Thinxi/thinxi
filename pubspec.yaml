@@ -1,0 +1,63 @@
+name: thinxi
+description: "Thinxi Trivia Game App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Core
+  provider: ^6.1.0
+  intl: ^0.18.1
+
+  # Translation
+  translator: ^0.1.7
+
+  # UI
+  cupertino_icons: ^1.0.8
+  iconsax: ^0.0.8
+
+  # Sharing
+  share_plus: ^7.2.1
+
+  # Firebase
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.13.5
+  google_sign_in: ^6.3.0
+
+  # Local storage
+  shared_preferences: ^2.2.2
+
+  # 🎉 Effects
+  confetti: ^0.7.0
+  audioplayers: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/woosh.png
+    - assets/images/logo.png
+    - assets/images/icons/
+
+    # 🔊 Sounds for game logic
+    - assets/audio/correct.mp3
+    - assets/audio/wrong.mp3
+    - assets/audio/finished.mp3
+    - assets/audio/reward.mp3
+    - assets/audio/no_prize_tournament.mp3
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: fonts/Roboto-Regular.ttf
